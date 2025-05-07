@@ -1,1 +1,1 @@
-console.log("console");
+console.log("Life, the Universe and Everything!")
